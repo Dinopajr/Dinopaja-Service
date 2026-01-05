@@ -1,2 +1,2 @@
-# Silmar-Dinopaja
+# Dinopaja service
 Mult-Serviços
